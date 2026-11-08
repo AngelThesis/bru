@@ -1,0 +1,18 @@
+iframe {
+  filter: invert(1) hue-rotate(180deg);
+}   
+svg{
+	width: 224px;
+	height: 222px;
+	fill: blueviolet;
+}
+.veve{
+	width: 333px;
+	height: 333px;
+	fill: rgb(53, 3, 94);
+}
+.beabr{
+	width: 555px;
+	height: 555px;
+	fill: red;
+}
